@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/platforms/android/assets/www/Home.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platforms/android/assets/www/LocateMe.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platforms/android/assets/www/Login.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platforms/android/assets/www/Map.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platforms/android/assets/www/css/style.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platforms/android/assets/www/js/HomeController.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platforms/android/assets/www/js/LocateMeController.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platforms/android/assets/www/js/LoginController.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platforms/android/assets/www/js/MapController.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platforms/android/assets/www/js/app.js" charset="UTF-8" />
+  </component>
+</project>
